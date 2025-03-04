@@ -47,7 +47,7 @@ Domain expertise
 
 ![image](https://github.com/user-attachments/assets/d488abdd-db89-45c1-b314-21e15092d4bb)
 
-## User Cases
+## Use Cases
 
 ![image](https://github.com/user-attachments/assets/b8800c54-5203-4718-987e-a9d2533fc119)
 
